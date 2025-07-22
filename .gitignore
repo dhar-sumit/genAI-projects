@@ -1,3 +1,9 @@
+# Large data files
+medical-chatbot-llm/Data/Medical_book.pdf
+
+# IDE specific files
+medical-chatbot-llm/.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
